@@ -1,0 +1,3 @@
+
+// add Promo 
+INSERT INTO promoe (date_debut) VALUES ('2018-08-06');
