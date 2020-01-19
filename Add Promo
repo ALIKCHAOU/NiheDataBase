@@ -1,3 +1,6 @@
 
 // add Promo 
 INSERT INTO promoe (date_debut) VALUES ('2018-08-06');
+// Add an article Promo
+INSERT INTO promol (id_familleclient,id_article ,qtemin,remise1,remise2,remise3,id_promoe) VALUES
+                   (6,6418,6,5,0,0,2668432);
